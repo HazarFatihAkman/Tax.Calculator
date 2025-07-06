@@ -1,2 +1,1 @@
-# Tax.Calculator
-Patika.dev Tax Calculator
+# Patika.dev Tax Calculator
