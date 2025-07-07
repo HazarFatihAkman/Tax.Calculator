@@ -28,6 +28,7 @@ public class App {
             System.out.print("| Exit (Yes : 0, No : 1) : ");
             exit = sc.nextInt() == 0;
         }
+        sc.close();
     }
 
     private static double calc_tax(double price, double tax) {
